@@ -48,7 +48,17 @@ p {
     margin-left: 29%;
 }
 
+.pltp {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    width: 1000px;
+    padding: 15px;
+    background-color: whitesmoke;
+}
+
 #footer {
+    padding-top: 50px;
     margin: auto;
     text-align: center;
 }
